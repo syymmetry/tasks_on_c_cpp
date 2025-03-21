@@ -21,3 +21,6 @@ int main() {
     sum_of_numbers();
     return 0;
 }
+
+/* The program takes a natural number n as input. 
+   Write a program that calculates the sum of numbers from 1 to n (inclusive) whose squares end with 2, 5, or 8 */
